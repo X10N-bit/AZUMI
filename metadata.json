@@ -1,0 +1,7 @@
+{
+  "name": "Azumi - Tu Compañera Virtual",
+  "description": "Una asistente virtual VTuber 3D impulsada por Gemini con interacción de voz en tiempo real y aprendizaje emocional.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
